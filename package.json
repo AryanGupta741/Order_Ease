@@ -1,0 +1,19 @@
+{
+  "name": "restaurant_management_app",
+  "version": "1.0.0",
+  "description": "This project proposes a mobile app for restaurants that streamlines the ordering and feedback process through a combination of features:",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.3",
+    "nodemon": "^3.1.0"
+  }
+}
