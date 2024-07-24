@@ -23,3 +23,10 @@ Overall, this project aims to enhance the restaurant dining experience by:
 * Gathering valuable customer feedback to improve service and offerings.
 
 This project presents a comprehensive solution for restaurants seeking to modernize their operations, improve customer engagement, and gain valuable insights through a mobile app platform.
+
+
+Result 
+![1](https://github.com/user-attachments/assets/4e5a1a5c-8d6a-448c-9a9b-70b58c03f6a2)
+![2](https://github.com/user-attachments/assets/b6186d36-e728-49b7-a68b-7d812c18efd8)
+![3](https://github.com/user-attachments/assets/859c17d0-141a-43eb-8202-ad0b22709839)
+![4](https://github.com/user-attachments/assets/dea37270-d68a-4fe0-9eeb-07180c3b621f)
